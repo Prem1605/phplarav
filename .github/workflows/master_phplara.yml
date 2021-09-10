@@ -56,5 +56,5 @@
           with:
             app-name: 'phplara'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_1ab427e061eb4d5eaf65ec8b1b0c52df }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_e8b2a458422849958dbf88e5087c3116 }}
             package: .
